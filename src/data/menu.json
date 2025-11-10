@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "name": "Espresso",
+    "category": "Coffee",
+    "price": 15000,
+    "desc": "Shot kopi pekat dan kuat",
+    "img": "/src/assets/espresso.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Americano",
+    "category": "Coffee",
+    "price": 18000,
+    "desc": "Espresso dengan air panas",
+    "img": "/src/assets/americano.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Cappuccino",
+    "category": "Coffee",
+    "price": 25000,
+    "desc": "Espresso dengan lapisan busa susu",
+    "img": "/src/assets/cappuccino.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Latte",
+    "category": "Coffee",
+    "price": 28000,
+    "desc": "Espresso dengan susu steamed",
+    "img": "/src/assets/latte.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Mocha",
+    "category": "Coffee",
+    "price": 30000,
+    "desc": "Cokelat dengan espresso dan susu",
+    "img": "/src/assets/mocha.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Flat White",
+    "category": "Coffee",
+    "price": 27000,
+    "desc": "Espresso dengan microfoam",
+    "img": "/src/assets/flat-white.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Iced Latte",
+    "category": "Coffee",
+    "price": 30000,
+    "desc": "Latte dingin yang menyegarkan",
+    "img": "/src/assets/iced-latte.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Cold Brew",
+    "category": "Coffee",
+    "price": 35000,
+    "desc": "Ekstraksi dingin, rasa halus",
+    "img": "/src/assets/cold-brew.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Matcha Latte",
+    "category": "Tea",
+    "price": 32000,
+    "desc": "Bubuk matcha premium dengan susu",
+    "img": "/src/assets/matcha-latte.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Jasmine Tea",
+    "category": "Tea",
+    "price": 20000,
+    "desc": "Teh jasmine harum dan menenangkan",
+    "img": "/src/assets/jasmine-tea.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Chocolate Frappe",
+    "category": "Cold",
+    "price": 33000,
+    "desc": "Minuman cokelat dingin yang creamy",
+    "img": "/src/assets/chocolate-frappe.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Mango Smoothie",
+    "category": "Cold",
+    "price": 30000,
+    "desc": "Puree mangga segar dan manis",
+    "img": "/src/assets/mango-smoothie.jpg"
+  },
+  {
+    "id": "13",
+    "name": "Banana Bread",
+    "category": "Snack",
+    "price": 22000,
+    "desc": "Pisang panggang yang lembut",
+    "img": "/src/assets/banana-bread.jpg"
+  },
+  {
+    "id": "14",
+    "name": "Blueberry Muffin",
+    "category": "Snack",
+    "price": 18000,
+    "desc": "Muffin dengan blueberry segar",
+    "img": "/src/assets/blueberry-muffin.jpg"
+  },
+  {
+    "id": "15",
+    "name": "Avocado Toast",
+    "category": "Food",
+    "price": 40000,
+    "desc": "Roti panggang dengan alpukat matang",
+    "img": "/src/assets/avocado-toast.jpg"
+  },
+  {
+    "id": "16",
+    "name": "Caesar Salad",
+    "category": "Food",
+    "price": 45000,
+    "desc": "Sayuran segar dengan dressing caesar",
+    "img": "/src/assets/caesar-salad.jpg"
+  },
+  {
+    "id": "17",
+    "name": "Grilled Chicken Sandwich",
+    "category": "Food",
+    "price": 50000,
+    "desc": "Dada ayam grilled dengan sayuran",
+    "img": "/src/assets/chicken-sandwich.jpg"
+  },
+  {
+    "id": "18",
+    "name": "Tomato Soup",
+    "category": "Food",
+    "price": 25000,
+    "desc": "Sup tomat hangat dan creamy",
+    "img": "/src/assets/tomato-soup.jpg"
+  },
+  {
+    "id": "19",
+    "name": "Bagel Cream Cheese",
+    "category": "Snack",
+    "price": 28000,
+    "desc": "Bagel fresh dengan cream cheese",
+    "img": "/src/assets/bagel-cream-cheese.jpg"
+  },
+  {
+    "id": "20",
+    "name": "Lemon Tart",
+    "category": "Dessert",
+    "price": 30000,
+    "desc": "Tart lemon segar dan manis",
+    "img": "/src/assets/lemon-tart.jpg"
+  }
+]
